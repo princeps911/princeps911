@@ -11,10 +11,10 @@ Computer Science graduate (2:1) and current Programmer II with a specialized foc
 * 🎓 Certifications: Cisco Network Technician (2026), Codecademy Full-Stack Engineer (2025), WhiteDove Webworld Web Developer (2018)
 
 
-
 # 🛠️ The Technical Arsenal
 
 | Domain | Technologies & Skills |
+
 | Networking | Cisco Routing/Switching, VLANs, TCP/IP, OSPF, Network Diagnostics 
 
 | Full-Stack | React, Redux, Node.js, Express, ASP.NET, Java Spring Boot 
