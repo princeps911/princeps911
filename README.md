@@ -48,4 +48,3 @@ Email: pakpobasa@gmail.com
 
 
 
-Does this look like the professional profile you want to show the world? I can help you add a "Skills Progress Bar" or icons to make it even more visual!
