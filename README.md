@@ -7,7 +7,7 @@ Computer Science graduate (2:1) and current Programmer II with a specialized foc
 * 🔭 Currently: Managing internal reporting systems and payroll analytics at Delta State University.
 
 
-* 🛠️ Latest Project: Multi-site Enterprise WAN simulation with Cisco IOS and Extended ACL security logic.
+* 🛠️ Latest Project: Pinned First
 * 🎓 Certifications: Cisco Network Technician (2026), Codecademy Full-Stack Engineer (2025), WhiteDove Webworld Web Developer (2018)
 
 
